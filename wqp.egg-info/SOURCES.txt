@@ -1,7 +1,0 @@
-README.md
-setup.py
-wqp.egg-info/PKG-INFO
-wqp.egg-info/SOURCES.txt
-wqp.egg-info/dependency_links.txt
-wqp.egg-info/requires.txt
-wqp.egg-info/top_level.txt
