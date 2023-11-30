@@ -7,7 +7,7 @@ setuptools.setup(
     description='Wine quality predictor - a packaged machine learning algorithm to predict wine quality',
     packages=setuptools.find_packages(),
     install_requires=[
-        "scikit-learn==0.22.1",
-        "pandas==1.0.1"
+        "scikit-learn==1.3",
+        "pandas==2.1.3"
     ]
 )
